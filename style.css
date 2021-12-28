@@ -1,0 +1,26 @@
+.odhie-tengah {
+    font-size: 15px;
+    margin: auto;
+}
+
+.kirikanan {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#home {
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.noborder {
+    border: 0;
+
+}
+
+.bayangan {
+    text-shadow: 1px 1px black;
+    font-family: sans-serif;
+}
